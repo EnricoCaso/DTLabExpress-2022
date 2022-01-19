@@ -31,7 +31,7 @@ print(a[-4])       # mostra il carattere c
 
 
 # cercare tramite find() caratteri e ricevere dalla funzione la loro posizione
-char = input('Inserisci il carattere che cerchi: ')
+Char = input('Inserisci il carattere che cerchi: ')
 pos = a.find(char,0)
 print('La posizione del carattere cercato è: ',pos,a[pos],sep=' ')
 
