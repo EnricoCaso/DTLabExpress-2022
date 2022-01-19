@@ -1,2 +1,3 @@
 # DTLabExpress-2022
-Esercitazioni - Python -Network
+In qesto repo inserisco tutti gli esercizi sia di Python che di Networking
+
