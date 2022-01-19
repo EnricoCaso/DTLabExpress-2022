@@ -81,7 +81,7 @@ print(b,type(b),pos2,sep=' ')
 print('-' * 50)
 
 
-# erchiamo posizione del '.'
+# cerchiamo posizione del '.'
 pos3 = ip.find('.',pos2+1)
 print('La terza posizione del . è ',pos3)
 
