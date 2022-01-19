@@ -24,7 +24,7 @@ Data una stringa s per sapere se nella stringa s è presente una sottostringa s1
 # Esempio indici strighe
 a = 'ciao'
 print(a[0])        # indice 0 = c
-print(a[:4])       # mostra tutta la sttinga
+print(a[:4])       # mostra tutta la stringa
 print(a[0:])       # mostra tutta la stringa
 print(a[-1:])      # mostra il carattere o 
 print(a[-4])       # mostra il carattere c
